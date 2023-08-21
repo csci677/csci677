@@ -110,7 +110,7 @@
 
 - date: 10/10 
   title: >
-    Week 8: <strong>Stereo</strong> 
+    Week 8: <strong>Stereo & Structure from Motion</strong> 
   slides:
   topics:
     - Assignment 2 due
@@ -119,21 +119,21 @@
 
 - date: 10/17 
   title: >
-    Week 8: <strong>Structure from Motion</strong> 
+    Week 8: <strong>Depth & Flow</strong> 
   slides:
   topics:
   readings:
 
 - date: 10/19 
   title: >
-    Week 9: <strong>Depth & Flow</strong>
+    Week 9: <strong>Representation Learning</strong>
   slides:
   topics:
   readings:
 
 - date: 10/24 
   title: >
-    Week 9: <strong>Representation Learning</strong> 
+    Week 9: <strong>Representation Learning (guest lecture)</strong> 
   slides:
   topics:
   readings:
