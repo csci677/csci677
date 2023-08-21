@@ -1,26 +1,44 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+title: Advanced Computer Vision
+description: CSCI677 • Fall 2023 • University of Southern California
+logo: usc-logo.png
+news: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This course aims to bring together different disciplines of computer vision, includin Visual Recogntion, Multi-View Reconstruction, and recent topics such as Neural Fields, Representation Learning, Generative AI etc. We want to show how embodied agents learn to see and sense our physical environments. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<Strong>Prerequisite knowledge</Strong>
+- Linear algebra and calculus
+- Probability 
+- Basic computer vision algorithms
+- Machine learning and recent deep learning approaches
+- Python and PyTorch
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<Strong>Course Goals</Strong>
+
+- Understand and implement classical computer vision algorithms.
+- Understand and implement deep learning-based visual recognition and reconstruction algorithms. 
+- Try out extensions of recent papers. 
+
+<Strong>Grading</Strong>
+
+- 3 homework assignments (15% each)
+- 1 course project (5% project proposal, 15% midterm check-in, 15% final presentation, 15% final report)
+- Class participation (5%)
+- 5 grace days in total that may be applied to homework assignments or the cource project. No more than 3 grace days can be used on a single assignemnt. 
+
+<Strong>Collaboration</Strong>
+
+(Adapted from Roni Rosenfeld’s Course Policies.)
+
+- Students are encouraged to study materials in groups and are allowed to seek help from other students in understanding the material needed to solve a particular homework problem. The actual solution must be done by each student alone.
+- Students are expected to form a group of three to finish the course project and to evenly distribute the workload. 
+
+---
+- <Strong>Time:</Strong> Tue,Thu 4:00-5:50pm
+- <Strong>Location:</strong> [OHE](https://maps.usc.edu/?id=1928&reference=OHE) 100C
+- <Strong>Contact:</strong> [Slack](test)
+
+---
