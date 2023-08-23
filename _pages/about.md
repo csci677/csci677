@@ -27,7 +27,7 @@ This course aims to bring together different disciplines of computer vision, inc
 - 3 homework assignments (15% each)
 - 1 course project (5% project proposal, 15% midterm check-in, 15% final presentation, 15% final report)
 - Class participation (5%)
-- 5 grace days in total that may be applied to homework assignments or the cource project. No more than 3 grace days can be used on a single assignemnt. 
+- 5 grace days in total that may be applied to homework assignments or the course project. No more than 3 grace days can be used on a single assignment or the course project.
 
 <Strong>Collaboration</Strong>
 
@@ -39,6 +39,6 @@ This course aims to bring together different disciplines of computer vision, inc
 ---
 - <Strong>Time:</Strong> Tue,Thu 4:00-5:50pm
 - <Strong>Location:</strong> [OHE](https://maps.usc.edu/?id=1928&reference=OHE) 100C
-- <Strong>Contact:</strong> [Slack](test)
+- <Strong>Contact:</strong> [Slack](https://uscviterbiclass.slack.com/archives/C05JXDQ9NB0)
 
 ---
