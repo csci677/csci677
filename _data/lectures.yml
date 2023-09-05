@@ -1,17 +1,20 @@
 - date: 8/22
   title: >
-    Week 1: <strong>Course Introduction</strong> <a href="lecture1-Introduction.pdf">[slides]</a>
-  slides:
+    Week 1: <strong>Course Introduction</strong>
+  slides: 
   topics:
     - Course syllabus and requirements
     - Introduction to computer vision
   readings:
+    - <a href="https://www.robots.ox.ac.uk/~vgg/hzbook/">Multiple View Geometry in Computer Vision</a><br/>
+    - <a href="https://szeliski.org/Book/">Computer Vision Algorithms and Applications</a><br/>
+    - <a href="http://cs231n.stanford.edu">Stanford CS231N</a><br/>
     # - <a href="https://arxiv.org/abs/2209.03430">Foundations and Trends in Multimodal Machine Learning&#58; Principles, Challenges, and Open Questions</a> <br/>
 
 
 - date: 8/24
   title: >
-    Week 1: <strong>Image Classification</strong> <a href="lecture1-Introduction.pdf">[slides]</a>
+    Week 1: <strong>Image Classification</strong>
   slides:
   topics:
     - Simple image classifier
@@ -19,21 +22,31 @@
     - Softmax
     - SVM 
   readings:
+    - <a href="https://cs231n.github.io/classification/">CS231N Classification</a><br/>
 
 - date: 8/29
   title: >
-    Week 2: <strong>Optimization</strong> 
+    Week 2: <strong>Image Filtering</strong> 
   slides:
   topics:
+    - Images as functions and signals
+    - Image denoising
+    - Image smoothing
+    - Image filtering
   readings:
+    - <a href="https://ai.stanford.edu/~syyeung/cvweb/tutorial1.html">Image filtering</a><br/>
 
 - date: 8/31
   title: >
-    Week 2: <strong>Neural Networks</strong> 
+    Week 2: <strong>Image Filtering & Edge Detection</strong> 
   slides:
   topics:
+    - Image filtering
+    - Edge detection
     - Assignement 1 out
   readings:
+    - <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjWveCmm5KBAxXYSzABHf0HB0wQFnoECBAQAQ&url=https%3A%2F%2Fcanvas.stanford.edu%2Ffiles%2F4183084%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw26YRU8sEO91c6mnSCF0E0h&opi=89978449">A Computational Approach to Edge Detection</a><br/>
+    - <a href="https://docs.opencv.org/3.4/da/d22/tutorial_py_canny.html">OpenCV Canny edge detector</a><br/>
 
 - date: 9/5
   title: >
