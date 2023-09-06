@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
- <strong>Exact topics and schedule subject to change.</strong>
+ <strong>Exact topics and schedule subject to change.</strong> Slides shared in Slack before class. 
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
