@@ -50,28 +50,32 @@
 
 - date: 9/5
   title: >
-    Week 3: <strong>Convolutional Neural Networks</strong>
+    Week 3: <strong>Image Features</strong>
   slides:
   topics:
   readings:
+    - <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cc58efc1f17e202a9c196f9df8afd4005d16042a">Distinctive image features from scale-invariant keypoints</a><br/>
+    - <a href="https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf">Histograms of Oriented Gradients for Human Detection</a><br/>
 
 - date: 9/7
   title: >
-    Week 3: <strong>Training Neural Networks</strong> 
+    Week 3: <strong>Image 2D Transformation</strong> 
   slides:
   topics:
   readings:
+    - <a href="http://graphics.stanford.edu/~jplewis/lscourse/SLIDES.pdf">Least Squares Estimator</a><br/>
+
 
 - date: 9/12 
   title: >
-    Week 4: <strong>Attention & Transformers</strong> 
+    Week 4: <strong>Image Homography</strong> 
   slides:
   topics:
   readings:
 
 - date: 9/14 
   title: >
-    Week 4: <strong>Object Detection & Image Segmentation</strong> 
+    Week 4: <strong>Camera Models & Calibration</strong> 
   slides:
   topics:
     - Project proposal due
@@ -79,7 +83,7 @@
 
 - date: 9/19 
   title: >
-    Week 5: <strong>Camera Models</strong> 
+    Week 5: <strong>Single Image Geometry</strong> 
   slides:
   topics:
     - Assignment 1 due
@@ -88,21 +92,21 @@
 
 - date: 9/21 
   title: >
-    Week 5: <strong>Camera Calibration</strong> 
+    Week 5: <strong>Epipolar Geometry</strong> 
   slides:
   topics:
   readings:
 
 - date: 9/26 
   title: >
-    Week 6: <strong>Single Image Geometry</strong> 
+    Week 6: <strong>Convolutional Neural Networks</strong> 
   slides:
   topics:
   readings:
 
 - date: 9/28 
   title: >
-    Week 6: <strong>Epipolar Geometry</strong> 
+    Week 6: <strong>Transformers & Attention</strong> 
   slides:
   topics:
   readings:
