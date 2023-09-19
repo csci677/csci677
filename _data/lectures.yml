@@ -83,16 +83,17 @@
 
 - date: 9/19 
   title: >
-    Week 5: <strong>Single Image Geometry</strong> 
+    Week 5: <strong>Epipolar Geometry</strong> 
   slides:
   topics:
     - Assignment 1 due
     - Assignment 2 out 
   readings:
+    - <a href="https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook1/HZepipolar.pdf">Epipolar Geometry</a><br/>
 
 - date: 9/21 
   title: >
-    Week 5: <strong>Epipolar Geometry</strong> 
+    Week 5: <strong>Stereo</strong> 
   slides:
   topics:
   readings:
@@ -153,6 +154,7 @@
     Week 9: <strong>Representation Learning (guest lecture)</strong> 
   slides:
   topics:
+      - Project midterm report due
   readings:
 
 - date: 10/31 
