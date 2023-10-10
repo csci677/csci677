@@ -131,7 +131,7 @@
 
 - date: 10/10 
   title: >
-    Week 8: <strong>Attention & Transformers</strong> 
+    Week 8: <strong>Optical Flow</strong> 
   slides:
   topics:
     - Assignment 2 due
@@ -140,14 +140,14 @@
 
 - date: 10/17 
   title: >
-    Week 9: <strong>Optical Flow</strong> 
+    Week 9: <strong>Detection & Tracking</strong> 
   slides:
   topics:
   readings:
 
 - date: 10/19 
   title: >
-    Week 9: <strong>Detection & Tracking</strong>
+    Week 9: <strong>Segmentation</strong>
   slides:
   topics:
   readings:
