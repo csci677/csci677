@@ -140,7 +140,7 @@
 
 - date: 10/17 
   title: >
-    Week 9: <strong>Detection & Tracking</strong> 
+    Week 9: <strong>Image Alignment & Tracking</strong> 
   slides:
   topics:
   readings:
@@ -157,7 +157,6 @@
     Week 10: <strong>Representation Learning</strong> 
   slides:
   topics:
-      - Project midterm report due
   readings:
 
 - date: 10/26 
