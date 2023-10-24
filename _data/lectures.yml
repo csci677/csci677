@@ -172,7 +172,6 @@
     Week 11: <strong>Neural Radiance Fields</strong>
   slides:
   topics:
-    - Assignment 3 due 
   readings:
 
 - date: 11/2 
@@ -187,6 +186,7 @@
     Week 12: <strong>Representation Learning</strong> 
   slides:
   topics:
+      - Assignment 3 due 
   readings:
 
 - date: 11/9 
