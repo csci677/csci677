@@ -164,6 +164,7 @@
     Week 10: <strong>Generative AI (guest lecture by Jun Gao from Nvidia Research)</strong> 
   slides:
   topics:
+    - Project midterm report due
   readings:
 
 - date: 10/31 
@@ -193,7 +194,6 @@
     Week 12: <strong>Representation Learning (guest lecture by Dr. Xinlei Chen from Meta FAIR)</strong> 
   slides:
   topics:
-      - Project midterm report due
   readings:
 
 - date: 11/14 
@@ -205,14 +205,14 @@
 
 - date: 11/16 
   title: >
-    Week 13: <strong>Foundation Models (guest lecture by Tongzhou Wang from MIT)</strong> 
+    Week 13: <strong>Foundation Models (guest lecture by Sherry Yang from Google)</strong> 
   slides:
   topics:
   readings:
 
 - date: 11/21 
   title: >
-    Week 14: <strong>Advanced Topics & Wrap-up</strong> 
+    Week 14: <strong>Foundation Models (guest lecture by Tongzhou Wang from MIT)</strong> 
   slides:
   topics:
   readings:
