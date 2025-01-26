@@ -2,20 +2,21 @@ Instructors:
     - name: Yue Wang
       email: yue.w@usc.edu
       url: https://yuewang.xyz
-      office-hours: Tuesday, Thursday 18:00-18:30 on Zoom and in person
+      office-hours: Thursday 17:20-18:30 in the lecture room
       zoom: https://usc.zoom.us/j/4171023483?pwd=bEF3cGMvRUg1TEh3T1FhV0VOMnVPQT09
       image: staff/yue.jpeg
 
 TAs:
-    - name: Bingjie Tang
-      email: bingjiet@usc.edu
-      url: https://bingjietang718.github.io
-      office-hours: Tuesday, 18:00-19:00 on Zoom
-      zoom: https://usc.zoom.us/j/2396895777?pwd=SnVpcUt1NWVQdzNSYzMrWWRsaytNZz09
-      image: staff/bingjie.jpg
+    - name: Jiageng Mao
+      email: jiagengm@usc.edu
+      url: https://pointscoder.github.io
+      office-hours: Thursday 17:20-18:30 in the lecture room
+      # zoom: https://usc.zoom.us/j/2396895777?pwd=SnVpcUt1NWVQdzNSYzMrWWRsaytNZz09
+      # image: staff/bingjie.jpg
 
-    - name: Huanyu Chen
-      email: huanyuc@usc.edu
-      url: 
-      office-hours: Tuesday 2pm-4pm, SAL 213
-      image: staff/huanyu.jpg
+    - name: Minh Tran
+      email: jiagengm@usc.edu
+      url: https://scholar.google.com/citations?user=HuuQRj4AAAAJ&hl=en
+      office-hours: Thursday 17:20-18:30 in the lecture room
+      # zoom: https://usc.zoom.us/j/2396895777?pwd=SnVpcUt1NWVQdzNSYzMrWWRsaytNZz09
+      # image: staff/bingjie.jpg

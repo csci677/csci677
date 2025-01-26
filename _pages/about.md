@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Advanced Computer Vision
-description: CSCI677 • Fall 2023 • University of Southern California
+description: CSCI677 • Spring 2025 • University of Southern California
 logo: usc-logo.png
 news: true
 ---
@@ -37,8 +37,8 @@ This course aims to bring together different disciplines of computer vision, inc
 - Students are expected to form a group of three to finish the course project and to evenly distribute the workload. 
 
 ---
-- <Strong>Time:</Strong> Tue,Thu 4:00-5:50pm
-- <Strong>Location:</strong> [OHE](https://maps.usc.edu/?id=1928&reference=OHE) 100C
+- <Strong>Time:</Strong> Thu 2:00-5:50pm
+- <Strong>Location:</strong> [OHE](https://maps.usc.edu/?id=1928&reference=OHE) 132
 - <Strong>Contact:</strong> [Slack](https://uscviterbiclass.slack.com/archives/C05JXDQ9NB0)
 
 ---
