@@ -25,7 +25,8 @@ This course aims to bring together different disciplines of computer vision, inc
 <Strong>Grading</Strong>
 
 - 3 homework assignments (15% each)
-- 1 course project (5% project proposal, 15% midterm check-in, 15% final presentation, 15% final report)
+- 1 paper presentation (15%)
+- 1 course project (5% project proposal, 10% midterm report, 10% final presentation, 10% final report)
 - Class participation (5%)
 - 5 grace days in total that may be applied to homework assignments or the course project. No more than 3 grace days can be used on a single assignment or the course project.
 
