@@ -41,7 +41,6 @@
     - Optical flow
     - Tracking
     - Alignment
-    - <strong>Assignment 1 due, assignment 2 out</strong>
   readings:
 
 - date: 2/13
@@ -52,6 +51,7 @@
     - Neural networks
     - Convolutional neural networks
     - Transformers
+    - <strong>Assignment 1 due, assignment 2 out</strong>
   readings:
 
 - date: 2/20
@@ -61,7 +61,6 @@
   topics:
     - Object detection
     - Segmentation
-    - <strong>Assignment 2 due, assignment 3 out</strong>
   readings:
 
 - date: 2/27
@@ -78,7 +77,7 @@
   slides:
   topics:
     - 3D Perception
-    - <strong>Assignment 3 due</strong>
+    - <strong>Assignment 2 due on March 3rd, assignment 3 out</strong>
   readings:
 
 - date: 3/13
